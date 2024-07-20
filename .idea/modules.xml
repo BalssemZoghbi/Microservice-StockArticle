@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API-Gateway-Server/API-Gateway-Server.iml" filepath="$PROJECT_DIR$/API-Gateway-Server/API-Gateway-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservice-Projects.iml" filepath="$PROJECT_DIR$/.idea/Microservice-Projects.iml" />
+    </modules>
+  </component>
+</project>
